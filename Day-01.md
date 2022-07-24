@@ -33,19 +33,19 @@ and easy to change and update the implementation without affecting the rest of t
 
 ## Props (properties)
 
-### What is “props” short for?
+### 1. What is “props” short for?
 
 ---
 properties.
 
-### How are props used in React?
+### 2.How are props used in React?
 
 ---
 Props used by define an attribute with value(data)
 and pass it to a child component by using Props
 then render the Props Data.
 
-### What is the flow of props?
+### 3. What is the flow of props?
 
 ---
 one way from parent to child.
