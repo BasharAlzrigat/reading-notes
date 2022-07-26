@@ -15,6 +15,6 @@
 
 - ## Code 201 - Foundations of Software Development
 
-- ## Code 301 - [Intermediate Software Development](https://basharalzrigat.github.io/reading-notes/301/README.md)
+- ## Code 301 - [Intermediate Software Development](301/Table-of-content.md)
 
 - ## Code 401 - Advanced Software Development
