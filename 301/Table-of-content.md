@@ -17,4 +17,8 @@
     <td>Day 03</td>
     <td><a href="https://basharalzrigat.github.io/reading-notes/301/Day-03.md">Passing Functions as Props</a></td>
   </tr>
+   <tr>
+    <td>Day 04</td>
+    <td><a href="https://basharalzrigat.github.io/reading-notes/301/Day-03.md">React and Forms</a></td>
+  </tr>
 </table>
