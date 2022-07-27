@@ -56,5 +56,5 @@ returning a logic to comparing m and n which returns boolean.
 
 ---
 
-`reduce` will return single value
-`map` will return the whole array
+`reduce` will return single value.
+`map` will return the whole array.
