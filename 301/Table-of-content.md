@@ -7,18 +7,23 @@
   </tr>
   <tr>
     <td>Day 01</td>
-    <td><a href="https://basharalzrigat.github.io/reading-notes/301/Day-02.md">React and Component-Based Architecture</a></td>
+    <td><a href="301/Day-01.md">React and Component-Based Architecture</a></td>
   </tr>
     <tr>
     <td>Day 02</td>
-    <td><a href="https://basharalzrigat.github.io/reading-notes/301/Day-02.md">State and Props</a></td>
+    <td><a href="301/Day-02.md">State and Props</a></td>
   </tr>
     <tr>
     <td>Day 03</td>
-    <td><a href="https://basharalzrigat.github.io/reading-notes/301/Day-03.md">Passing Functions as Props</a></td>
+    <td><a href="301/Day-03.md">Passing Functions as Props</a></td>
   </tr>
    <tr>
     <td>Day 04</td>
-    <td><a href="https://basharalzrigat.github.io/reading-notes/301/Day-03.md">React and Forms</a></td>
+    <td><a href="301/Day-04.md">React and Forms</a></td>
   </tr>
+     <tr>
+    <td>Day 05</td>
+    <td><a href="301/Day-05.md">Putting it all together</a></td>
+  </tr>
+
 </table>
