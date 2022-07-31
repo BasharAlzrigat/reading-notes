@@ -25,5 +25,8 @@
     <td>Day 05</td>
     <td><a href="301/Day-05.md">Putting it all together</a></td>
   </tr>
-
+     <tr>
+    <td>Day 06</td>
+    <td><a href="301/Day-05.md">Asynchronous Code and Third Party APIs</a></td>
+  </tr>
 </table>
