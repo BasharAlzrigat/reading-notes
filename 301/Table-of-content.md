@@ -27,6 +27,10 @@
   </tr>
      <tr>
     <td>Day 06</td>
-    <td><a href="301/Day-05.md">Asynchronous Code and Third Party APIs</a></td>
+    <td><a href="301/Day-06.md">Asynchronous Code and Third Party APIs</a></td>
+  </tr>
+       <tr>
+    <td>Day 07</td>
+    <td><a href="301/Day-07.md">Express Servers</a></td>
   </tr>
 </table>
