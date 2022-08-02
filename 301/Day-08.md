@@ -19,44 +19,44 @@ A resource has an identifier, which is a URI that uniquely identifies that resou
 
 `https://adventure-works.com/orders/1`
 
-### 4.What are the most common HTTP verbs?
+### 4. What are the most common HTTP verbs?
 
 ---
 The most common operations are GET, POST, PUT, PATCH, and DELETE.
 
-### 5.What should the URIs be based on?
+### 5. What should the URIs be based on?
 
 ---
 URIs should be based on nouns (the resource) and not verbs (the operations on the resource).
 
-### 6.Give an example of a good URI.
+### 6. Give an example of a good URI.
 
 ---
 `https://adventure-works.com/orders`
 
-### 7.What does it mean to have a ‘chatty’ web API? Is this a good or a bad thing?
+### 7. What does it mean to have a ‘chatty’ web API? Is this a good or a bad thing?
 
 ---
 it's means that API requires consumer to make tremendous (subjective matter) amount of distinct API calls to get needed information about a resource. Its a bad thing
 
-### 8.What status code does a successful `GET` request return?
+### 8. What status code does a successful `GET` request return?
 
 ---
 A successful GET method typically returns HTTP status code 200 (OK).
 
-### 9.What status code does an unsuccessful `GET` request return?
+### 9. What status code does an unsuccessful `GET` request return?
 
 ---
 returns HTTP status code 404 (Not Found).
 
-### 10.What status code does a successful `POST` request return?
+### 10. What status code does a successful `POST` request return?
 
 ---
 returns HTTP status code 201 (Created).
 
-### 7.What status code does a successful `DELETE` request return?
+### 11. What status code does a successful `DELETE` request return?
 
 ---
-returns HTTP status code 204 (No Content).
+returns HTTP response code 200 (OK).
 
 ---
