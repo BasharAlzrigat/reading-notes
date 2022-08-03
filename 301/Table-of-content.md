@@ -41,4 +41,9 @@
     <td>Day 09</td>
     <td><a href="./Day-09">Advanced Topics</a></td>
   </tr>
+    </tr>
+    <tr>
+    <td>Day 10</td>
+    <td><a href="./Day-10">Advanced Topics</a></td>
+  </tr>
 </table>
