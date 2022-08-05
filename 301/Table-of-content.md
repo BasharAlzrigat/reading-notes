@@ -44,6 +44,12 @@
     </tr>
     <tr>
     <td>Day 10</td>
-    <td><a href="./Day-10">Advanced Topics</a></td>
+    <td><a href="./Day-10">Persistence</a></td>
+  </tr>
+  </tr>
+    <tr>
+    <td>Day 11</td>
+    <td><a href="./Day-11">Mongo, Mongoose and Data Modeling
+</a></td>
   </tr>
 </table>
