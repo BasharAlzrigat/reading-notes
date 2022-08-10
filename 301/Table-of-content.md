@@ -58,4 +58,9 @@
     <td>Day 13</td>
     <td><a href="./Day-13">CRUD
   </tr>
+        <tr>
+    <td>Day 14</td>
+    <td><a href="./Day-14">Diversity & Inclusion in the Tech Industry
+
+  </tr>
 </table>
